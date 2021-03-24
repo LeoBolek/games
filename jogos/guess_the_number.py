@@ -1,3 +1,4 @@
+# Author: Leonardo Bolek
 
 import random
 

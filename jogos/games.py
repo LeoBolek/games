@@ -1,3 +1,5 @@
+# Author: Leonardo Bolek
+
 import hangman_game
 import guess_the_number
 
